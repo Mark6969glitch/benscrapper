@@ -37,3 +37,7 @@ Démarrer le programme
 
 • Supprime automatiquement les doublons
 ![image](https://github.com/Mark6969glitch/benscrapper/assets/129693046/667327b8-f41b-424b-bcc4-8f2096671c7f)
+
+Très fortement inspiré de: https://github.com/Kuucheen/KC-Scraper
+
+
