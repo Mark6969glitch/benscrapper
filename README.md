@@ -5,12 +5,17 @@ Ben Proxy Scrapper
 
 ❓ Comment utiliser ❓
 
+Démarrer le programme installateur.bat il vous installera touts les modules nécessaire au fonctionnement du programme
+
+Une fois l'installateur fermé lancé start.bat il vous éxécuteras le .python automatiquement
+
+Suivez les étapes indiqués 
 
 Placez vos sites proxy dans le fichier « sites.txt » ou créez des configurations dans le dossier « presets ».
 
 Assurez-vous que le site Web que vous choisissez est capable d’afficher des proxys. Par exemple, vous pouvez utiliser L’exemple de site suivant : https://openproxy.space/list/http.
 
-Démarrer le programme
+
 
 (facultatif) Vérifiez les proxys à l’aide de ce vérificateur de proxy
 
